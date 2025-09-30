@@ -17,6 +17,14 @@ Vocabulary Mind Maps are released under the Creative Commons Licence, CC BY-NC-S
 
 💖 Enjoying the Vocabulary Mind Map Project? Consider supporting this work by sharing it with other learners, teachers, and schools.
 
+# Here's What to Do with These Mind Maps
+
+- ✅ **Letter A & B** → Words already have meanings.  
+  *Use these as an example of how to use the other letters. If you like this method, do the same for C–Z. Or, use them in your own way.*  
+
+- 🔤 **Letter C–Z** → Words only (no meanings).  
+  - You need to **add the meaning yourself** (on paper or in MindMap AI).  
+  - This helps you learn better by looking up and writing the meaning.
 
 # How to Use
 Print out your chosen letter mindmap template or use it digitally. Each mindmap contains words starting with a specific letteralong with their meanings. Use the template to learn new vocabulary and expand your language skills. You have two options for using these mindmaps:
@@ -34,7 +42,26 @@ Print out your chosen letter mindmap template or use it digitally. Each mindmap 
 * Add your own examples, synonyms, or sentences using each word
 * Search for word meanings online and add them directly to your digital mindmap
 
-## Mindmap Templates
+## Why This Method Works
+
+When you search for and write the meanings yourself, you:
+ – Active learning is more effective than passive reading
+ – Looking up words helps you see how they're used
+ – Personalize definitions in a way that makes sense to you
+ – Practice using dictionaries and learning resources
+
+## Getting Started
+
+1. **Start with A & B** to see the format and understand the approach
+2. **Pick your next letter** based on your needs or interest
+3. **Look up each word** using a dictionary, online search, or learning app
+4. **Write the meaning** in your own words (not just copy-paste!)
+5. **Add examples** if it helps you remember how to use the word
+6. **Review regularly** to reinforce what you've learned
+
+💡 **Pro Tip**: Try to use each new word in a sentence or conversation within 24 hours of learning it. This significantly improves retention! 
+
+# Mindmap Templates
 
 | Letter | Print Version | Digital Link |
 |--------|--------------|--------------|
@@ -74,7 +101,7 @@ Print out your chosen letter mindmap template or use it digitally. Each mindmap 
 - Parents can use these mindmaps for structured language learning at home
 - Pick one letter mindmap per week and learn all words thoroughly
 - Improve essay and creative writing by expanding word knowledge
-- 
+
 It's encouraged to customize these base mindmaps around your own learning goals and needs. You may:
 - Add your own example sentences for each word
 - Include synonyms and antonyms
