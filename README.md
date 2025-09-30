@@ -39,54 +39,30 @@ Print out your chosen letter mindmap template or use it digitally. Each mindmap 
 | Letter | Print Version | Digital Link |
 |--------|--------------|--------------|
 | A | [Print A Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/A%20Words%20Mind%20Map) | [Edit A Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-a-words) |
-| B | [Print B Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/B%20Words%20Mind%20Map) | [Edit B Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-words-starting-with-b
-) |
-| C | [Print C Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/C%20Words%20Mind%20Map) | [Edit C Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-c-words
-) |
-| D | [Print D Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/D%20Words%20Mind%20Map) | [Edit D Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-d-words
-) |
-| E | [Print E Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/E%20Words%20Mind%20Map) | [Edit E Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-e-words
-) |
-| F | [Print F Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/F%20Words%20Mind%20Map) | [Edit F Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-f-words
-) |
-| G | [Print G Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/G%20Words%20Mind%20Map) | [Edit G Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-g-words
-) |
-| H | [Print H Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/H%20Words%20Mind%20Map) | [Edit H Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-h-words
-) |
-| I | [Print I Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/I%20Words%20Mind%20Map) | [Edit I Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-i-words
-) |
-| J | [Print J Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/J%20Words%20Mind%20Map) | [Edit J Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-j-words
-) |
-| K | [Print K Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/K%20Words%20Mind%20Map) | [Edit K Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-k-words
-) |
-| L | [Print L Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/L%20Words%20Mind%20Map) | [Edit L Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-l-words
-) |
-| M | [Print M Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/M%20Words%20Mind%20Map) | [Edit M Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-m-words
-) |
-| N | [Print N Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/N%20Words%20Mind%20Map) | [Edit N Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-n-words
-) |
-| O | [Print O Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/O%20Words%20Mind%20Map) | [Edit O Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-o-words
-) |
-| P | [Print P Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/P%20Words%20Mind%20Map) | [Edit P Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-p-words
-) |
-| Q | [Print Q Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/Q%20Words%20Mind%20Map) | [Edit Q Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-q-words
-) |
-| R | [Print R Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/R%20Words%20Mind%20Map) | [Edit R Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-r-words
-) |
-| S | [Print S Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/S%20Words%20Mind%20Map) | [Edit S Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-s-words
-) |
-| T | [Print T Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/T%20Words%20Mind%20Map) | [Edit T Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-t-words
-) |
-| U | [Print U Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/U%20Words%20Mind%20Map) | [Edit U Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-u-words
-) |
-| V | [Print V Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/V%20Words%20Mind%20Map) | [Edit V Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-v-words
-) |
-| W | [Print W Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/W%20Words%20Mind%20Map) | [Edit W Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-w-words
-) |
-| X | [Print X Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/X%20Words%20Mind%20Map) | [Edit X Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-x-words
-) |
-| Y | [Print Y Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/Y%20Words%20Mind%20Map) | [Edit Y Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-y-words
-) |
+| B | [Print B Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/B%20Words%20Mind%20Map) | [Edit B Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-words-starting-with-b) |
+| C | [Print C Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/C%20Words%20Mind%20Map) | [Edit C Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-c-words) |
+| D | [Print D Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/D%20Words%20Mind%20Map) | [Edit D Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-d-words) |
+| E | [Print E Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/E%20Words%20Mind%20Map) | [Edit E Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-e-words) |
+| F | [Print F Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/F%20Words%20Mind%20Map) | [Edit F Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-f-words) |
+| G | [Print G Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/G%20Words%20Mind%20Map) | [Edit G Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-g-words) |
+| H | [Print H Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/H%20Words%20Mind%20Map) | [Edit H Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-h-words) |
+| I | [Print I Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/I%20Words%20Mind%20Map) | [Edit I Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-i-words) |
+| J | [Print J Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/J%20Words%20Mind%20Map) | [Edit J Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-j-words) |
+| K | [Print K Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/K%20Words%20Mind%20Map) | [Edit K Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-k-words) |
+| L | [Print L Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/L%20Words%20Mind%20Map) | [Edit L Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-l-words) |
+| M | [Print M Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/M%20Words%20Mind%20Map) | [Edit M Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-m-words) |
+| N | [Print N Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/N%20Words%20Mind%20Map) | [Edit N Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-n-words) |
+| O | [Print O Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/O%20Words%20Mind%20Map) | [Edit O Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-o-words) |
+| P | [Print P Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/P%20Words%20Mind%20Map) | [Edit P Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-p-words) |
+| Q | [Print Q Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/Q%20Words%20Mind%20Map) | [Edit Q Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-q-words) |
+| R | [Print R Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/R%20Words%20Mind%20Map) | [Edit R Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-r-words) |
+| S | [Print S Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/S%20Words%20Mind%20Map) | [Edit S Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-s-words) |
+| T | [Print T Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/T%20Words%20Mind%20Map) | [Edit T Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-t-words) |
+| U | [Print U Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/U%20Words%20Mind%20Map) | [Edit U Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-u-words) |
+| V | [Print V Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/V%20Words%20Mind%20Map) | [Edit V Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-v-words) |
+| W | [Print W Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/W%20Words%20Mind%20Map) | [Edit W Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-w-words) |
+| X | [Print X Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/X%20Words%20Mind%20Map) | [Edit X Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-x-words) |
+| Y | [Print Y Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/Y%20Words%20Mind%20Map) | [Edit Y Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-y-words) |
 | Z | [Print Z Mindmap](https://github.com/stlab92/english-vocabulary-mindmaps/tree/main/Z%20Words%20Mind%20Map) | [Edit Z Mindmap](https://mindmapai.app/mind-mapping/vocabulary-mind-map-z-words) |
 
 # Usage Ideas
