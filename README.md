@@ -112,33 +112,36 @@ It's encouraged to customize these base mindmaps around your own learning goals 
 
 # FAQ
 
-Q: Do I need to complete the letters in alphabetical order?
- No! You can start with any letter that interests you or focuses on words you need to learn. Choose based on your learning goals and priorities.
+**Q: Do I need to complete the letters in alphabetical order?**  
+A: No! You can start with any letter that interests you or focuses on words you need to learn. Choose based on your learning goals and priorities.
 
-Q: Can I add my own words to the mindmap?
- Absolutely! The templates are meant to be customized. Add words that are relevant to your studies, work, or interests.
+**Q: Can I add my own words to the mindmap?**  
+A: Absolutely! The templates are meant to be customized. Add words that are relevant to your studies, work, or interests.
 
-Q: What if I don't understand a word's meaning?
- Use a dictionary or search online for the definition. In the digital version, you can add links to dictionary entries or example sentences.
+**Q: What if I don't understand a word's meaning?**  
+A: Use a dictionary or search online for the definition. In the digital version, you can add links to dictionary entries or example sentences.
 
-Q: How many words are included per letter?
- Each mindmap contains commonly used words for that letter. The number varies depending on the letter.
+**Q: How many words are included per letter?**  
+A: Each mindmap contains commonly used words for that letter. The number varies depending on the letter and category.
 
-Q: Can I use these mindmaps for languages other than English?
- While these templates are designed for English vocabulary, you can adapt them for other languages by replacing the words and meanings.
+**Q: Can I use these mindmaps for languages other than English?**  
+A: While these templates are designed for English vocabulary, you can adapt them for other languages by replacing the words and meanings.
 
-Q: Are these mindmaps suitable for children?
- Yes! The mindmaps work well for various age groups. You can adjust the difficulty level by focusing on simpler or more complex words.
+**Q: Are these mindmaps suitable for children?**  
+A: Yes! The mindmaps work well for various age groups. You can adjust the difficulty level by focusing on simpler or more complex words.
 
-Q: Can I share my completed mindmap with others?
- Yes! Feel free to share your learning progress. If you're using the digital version, you can collaborate with others in real-time.
+**Q: Can I share my completed mindmap with others?**  
+A: Yes! Feel free to share your learning progress. If you're using the digital version, you can collaborate with others in real-time.
 
-Q: Do I need special software to use the digital mindmaps?
- You'll need access to a mindmapping tool like MindMeister, Coggle, XMind, or similar platforms. Many offer free versions.
+**Q: Do I need special software to use the digital mindmaps?**  
+A: You'll need access to MindMap AI or similar mindmapping tools like MindMeister, Coggle, or XMind. Many offer free versions.
 
-Q: How long does it take to complete one letter?
- This depends on your pace. Some learners complete one letter per week, while others take longer to fully understand and memorize each word.
+**Q: How long does it take to complete one letter?**  
+A: This depends on your pace. Some learners complete one letter per week, while others take longer to fully understand and memorize each word.
 
-Q: Were these mindmaps made with AI?
- Yes, we created these mindmaps using [MindMap AI software](https://mindmapai.app/mind-map-software). However, the content (words and meanings) comes from our own curated resources and website. We provide the input and structure, while the AI helps us organize it into visual mindmap format.
+**Q: Can I print the mindmaps in color?**  
+A: Yes! Printing in color can help with visual learning and organization, but black and white works fine too.
+
+**Q: Were these mindmaps made with AI?**  
+A: Yes, we created these mindmaps using [MindMap AI software](https://mindmapai.app/mind-map-software). However, the content (words and meanings) comes from our own curated resources and website. We provide the input and structure, while the AI helps us organize it into visual mindmap format.
 
